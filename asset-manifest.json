@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sign-Up/static/css/main.319ecf81.css",
+    "main.js": "/Sign-Up/static/js/main.9ea51fbc.js",
+    "static/media/Vector 2.png": "/Sign-Up/static/media/Vector 2.afaff448fc501460db07.png",
+    "static/media/Vector 1.png": "/Sign-Up/static/media/Vector 1.facb965c5a3317c00ed6.png",
+    "index.html": "/Sign-Up/index.html",
+    "main.319ecf81.css.map": "/Sign-Up/static/css/main.319ecf81.css.map",
+    "main.9ea51fbc.js.map": "/Sign-Up/static/js/main.9ea51fbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.319ecf81.css",
+    "static/js/main.9ea51fbc.js"
+  ]
+}
